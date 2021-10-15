@@ -1,0 +1,8 @@
+C:\Учёба\4-ий курс\PAD\PAD Labs\LAB1 GRPC\Grpc Agent\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+C:\Учёба\4-ий курс\PAD\PAD Labs\LAB1 GRPC\Grpc Agent\Library\bin\Debug\netcoreapp3.1\Library.dll
+C:\Учёба\4-ий курс\PAD\PAD Labs\LAB1 GRPC\Grpc Agent\Library\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Учёба\4-ий курс\PAD\PAD Labs\LAB1 GRPC\Grpc Agent\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\Учёба\4-ий курс\PAD\PAD Labs\LAB1 GRPC\Grpc Agent\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\Учёба\4-ий курс\PAD\PAD Labs\LAB1 GRPC\Grpc Agent\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+C:\Учёба\4-ий курс\PAD\PAD Labs\LAB1 GRPC\Grpc Agent\Library\obj\Debug\netcoreapp3.1\Library.dll
+C:\Учёба\4-ий курс\PAD\PAD Labs\LAB1 GRPC\Grpc Agent\Library\obj\Debug\netcoreapp3.1\Library.pdb
